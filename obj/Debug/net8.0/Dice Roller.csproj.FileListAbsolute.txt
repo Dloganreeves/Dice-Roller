@@ -1,0 +1,14 @@
+C:\Users\logan\source\repos\Dice Roller\bin\Debug\net8.0\Dice Roller.exe
+C:\Users\logan\source\repos\Dice Roller\bin\Debug\net8.0\Dice Roller.deps.json
+C:\Users\logan\source\repos\Dice Roller\bin\Debug\net8.0\Dice Roller.runtimeconfig.json
+C:\Users\logan\source\repos\Dice Roller\bin\Debug\net8.0\Dice Roller.dll
+C:\Users\logan\source\repos\Dice Roller\bin\Debug\net8.0\Dice Roller.pdb
+C:\Users\logan\source\repos\Dice Roller\obj\Debug\net8.0\Dice Roller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\source\repos\Dice Roller\obj\Debug\net8.0\Dice Roller.AssemblyInfoInputs.cache
+C:\Users\logan\source\repos\Dice Roller\obj\Debug\net8.0\Dice Roller.AssemblyInfo.cs
+C:\Users\logan\source\repos\Dice Roller\obj\Debug\net8.0\Dice Roller.csproj.CoreCompileInputs.cache
+C:\Users\logan\source\repos\Dice Roller\obj\Debug\net8.0\Dice Roller.dll
+C:\Users\logan\source\repos\Dice Roller\obj\Debug\net8.0\refint\Dice Roller.dll
+C:\Users\logan\source\repos\Dice Roller\obj\Debug\net8.0\Dice Roller.pdb
+C:\Users\logan\source\repos\Dice Roller\obj\Debug\net8.0\Dice Roller.genruntimeconfig.cache
+C:\Users\logan\source\repos\Dice Roller\obj\Debug\net8.0\ref\Dice Roller.dll
